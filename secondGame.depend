@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694122803 source:d:\desktop\secondgame\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
